@@ -1,4 +1,5 @@
-# Episode #53: API Testing in Go with net/http/httptest
+# Episode #83: Advanced API Testing in Go: Table-Driven Tests & Build Tags
 
 ## Episode Link
- [![Episode Link](https://d502jbuhuh9wk.cloudfront.net/courses/66d6b4652be2ec53e02aea56/66d6b4652be2ec53e02aea56_scaled_cover.jpg?v=3)](https://www.codeheim.io/courses/Episode-53-API-Testing-in-Go-with-nethttphttptest-66d6b4652be2ec53e02aea56)
+ [![Episode Link](https://d502jbuhuh9wk.cloudfront.net/courses/67ec29bb8be9ca5487ca573c/67ec29bb8be9ca5487ca573c_scaled_cover.jpg?v=3)](https://www.codeheim.io/courses/Episode-83-Advanced-API-Testing-in-Go-Table-Driven-Tests--Build-Tags-67ec29bb8be9ca5487ca573c)
+
